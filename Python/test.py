@@ -1,0 +1,1 @@
+cidades = [['Joinville', 'Jaragua', 'Blumenau'], ['São Paulo', 'Rio de Janeiro', 'Fortaleza'], ['Timbó', 'Rio Branco', 'Curitiba']]
